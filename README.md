@@ -165,7 +165,6 @@ Overlay future promotional activity, campaigns, and stock availability with dail
 - Customer-level analysis
 - Payment-method analysis
 - Time-series analysis
-- Customer segmentation
 - Business-focused data visualisation
 - Insight generation
 - Management reporting
