@@ -19,9 +19,9 @@ I developed an interactive executive dashboard that turns the underlying sales d
 | Total Customers | **31** |
 | Number of Stores | **3** |
 | Average Revenue per Customer | **$9.3K** |
-| Highest-Revenue Category | **Accessories — $147.74K** |
-| Highest-Revenue Product | **Handbag — $24K** |
-| Highest-Revenue Store | **Store B — $104.96K** |
+| Highest-Revenue Category | **Accessories  $147.74K** |
+| Highest-Revenue Product | **Handbag  $24K** |
+| Highest-Revenue Store | **Store B  $104.96K** |
 
 ---
 
